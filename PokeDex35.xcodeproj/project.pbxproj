@@ -38,8 +38,6 @@
 		FA7A70AC24D9C15D00D743DD = {
 			isa = PBXGroup;
 			children = (
-				FA7A70CF24D9C1D700D743DD /* Controllers */,
-				FA7A70CE24D9C1CF00D743DD /* Models */,
 				FA7A70B724D9C15D00D743DD /* PokeDex35 */,
 				FA7A70B624D9C15D00D743DD /* Products */,
 			);
@@ -56,6 +54,8 @@
 		FA7A70B724D9C15D00D743DD /* PokeDex35 */ = {
 			isa = PBXGroup;
 			children = (
+				FA7A70CF24D9C1D700D743DD /* Controllers */,
+				FA7A70CE24D9C1CF00D743DD /* Models */,
 				FA7A70CC24D9C16E00D743DD /* Resources */,
 				FA7A70CD24D9C17E00D743DD /* Storyboards */,
 			);
